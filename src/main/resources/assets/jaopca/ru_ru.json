@@ -1,14 +1,14 @@
 {
 	"itemGroup.jaopca": "JAOPCA",
 
-	"block.jaopca.storage_blocks": "Block of %s",
-	"block.jaopca.raw_storage_blocks": "Block of Raw %s",
-	"item.jaopca.dusts": "%s Dust",
-	"item.jaopca.nuggets": "%s Nugget",
-	"item.jaopca.tiny_dusts": "Tiny Pile of %s Dust",
-	"item.jaopca.small_dusts": "Small Pile of %s Dust",
-	"fluid_type.jaopca.molten": "Molten %s",
-	"item.jaopca.molten": "Molten %s Bucket",
+	"block.jaopca.storage_blocks": "Блок из %s",
+	"block.jaopca.raw_storage_blocks": "Блок из сырого %s",
+	"item.jaopca.dusts": "Пыль из %s",
+	"item.jaopca.nuggets": "Самородок из %s",
+	"item.jaopca.tiny_dusts": "Крошечная кучка пыли из %s",
+	"item.jaopca.small_dusts": "Маленькая куча пыли из %s",
+	"fluid_type.jaopca.molten": "Рассплавленный %s",
+	"item.jaopca.molten": "Ведро из расплавленного %s",
 
 	"item.jaopca.create_crushed": "Crushed Raw %s",
 
